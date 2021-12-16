@@ -1,0 +1,4 @@
+model:
+  name: ConvNet 
+dataset:
+  aug: False
